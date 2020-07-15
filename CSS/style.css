@@ -1,0 +1,34 @@
+@charset "UTF-8";
+/*-------------------------
+	初期値
+-------------------------*/
+
+body{
+	padding-top: 70px;
+
+
+}
+
+
+
+
+.btn-primary{
+	background-color: #8e44ad;
+	border:1px solid #8e44ad;
+}
+
+footer a{
+	margin-bottom: 100000px;
+	color: #8e44ad;
+}
+
+
+
+/*-------------------------
+	トップ
+-------------------------*/
+
+
+.topcis p{
+	text-align:justify;
+}
